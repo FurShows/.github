@@ -1,4 +1,7 @@
-<h2>Welcome to FurShows</h2>
+<h1><p align="center">Welcome to FurShows</p></h1>
+<h3><p align="center">
+  <b>Enjoy Furtainment, Live The Fandom!</b>
+</p></h3></br>
 
 [![FurShows Header Logo.](https://cdn.furrys.org/github/furshows/images/furshows_github_1500x400.png)](https://furshows.com)
 
