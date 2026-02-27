@@ -1,5 +1,7 @@
 <h2>Welcome to FurShows</h2>
 
+[![Furtainment Header Logo.](https://cdn.furrys.org/github/furshows/images/furshows_github_1500x400.png)](https://furshows.com)
+
 FurShows is an organisation repository to publish code created by <a href="https://github.com/Fesothe">Velivian Fesothe</a> for FurShows.
 
 <ul>
