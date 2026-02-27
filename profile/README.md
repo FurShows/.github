@@ -17,3 +17,5 @@ FurShows is an organisation repository to publish code created by <a href="https
 More info: <a href="https://furshows.com">furshows.com</a>
 
 * <b>Social: <a href="https://x.com/FurShows">X</a> | <a href="https://bsky.app/profile/furshows.org">Bsky</a> | <a href="https://www.threads.net/@furshows">Threads</a> | </b>
+
+![](https://komarev.com/ghpvc/?username=furshows&color=red)
